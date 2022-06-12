@@ -9,7 +9,7 @@
 ![marko](https://user-images.githubusercontent.com/71281629/173231474-a9ac63cf-9c33-46e0-a0b1-d90c8c400461.png)
 
 
-➡️Here will be displayed a pop up box when you the incorrect credentials.
+➡️Here will be displayed a pop up box when you type the incorrect credentials.
 ![show error](https://user-images.githubusercontent.com/71281629/173231506-74540a49-60ad-4add-8b94-cd2231fda4de.png)
 
 
