@@ -11,5 +11,6 @@
 If you enter the wrong name, it will display an error
 ![show error](https://user-images.githubusercontent.com/71281629/173231506-74540a49-60ad-4add-8b94-cd2231fda4de.png)
 
+This is only a sample of the logic used , not the real program or implementation of the web page.
 For this problem you can watch at https://alienstudio.al/certificates-validation the real implementation of the program
 in the section certificates. For the real credentials you need to conatact at : bekakris@yahoo.com
