@@ -1,0 +1,23 @@
+/**
+if(username.value==array[i]){
+        if(username.value=="dionis"){
+            window.location.replace(kris_url);
+        }
+
+        else if(username.value=="kris"){
+            window.location.replace(kris_url);
+
+        }
+        else{
+        alert("Wrong value!")
+        break;
+        
+        }
+        }
+        else{
+            window.location.replace(wrong);
+        }
+
+
+    }
+    */
