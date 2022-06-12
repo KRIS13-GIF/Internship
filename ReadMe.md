@@ -8,8 +8,8 @@
 ![show dionis certificate](https://user-images.githubusercontent.com/71281629/173231472-b9b16fe5-50df-48d5-b3ed-10134febb262.png)
 ![marko](https://user-images.githubusercontent.com/71281629/173231474-a9ac63cf-9c33-46e0-a0b1-d90c8c400461.png)
 
-If you enter the wrong name, it will display an error
 ![show error](https://user-images.githubusercontent.com/71281629/173231506-74540a49-60ad-4add-8b94-cd2231fda4de.png)
+
 
 This is only a sample of the logic used , not the real program or implementation of the web page.
 For this problem you can watch at https://alienstudio.al/certificates-validation the real implementation of the program
